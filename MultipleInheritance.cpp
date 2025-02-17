@@ -9,7 +9,7 @@ cout << "This is a Vehicle" << endl;
 }; 
 class FourWheeler { 
 public: 
-FourWheeler() 
+FourWheeler()
 { 
 cout << "This is a 4 wheeler Vehicle" << endl; 
 } 
